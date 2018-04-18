@@ -1,0 +1,38 @@
+\contentsline {paragraph}{•}{1}
+\contentsline {paragraph}{•}{1}
+\contentsline {paragraph}{•}{1}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {1.1}Background}{2}
+\contentsline {paragraph}{•}{2}
+\contentsline {paragraph}{•}{2}
+\contentsline {paragraph}{•}{2}
+\contentsline {paragraph}{•}{3}
+\contentsline {section}{\numberline {1.2}Lessons from Domestic and International Speed Camera Programs}{3}
+\contentsline {paragraph}{•}{3}
+\contentsline {paragraph}{•}{4}
+\contentsline {paragraph}{•}{4}
+\contentsline {section}{\numberline {1.3}Problem Statement}{4}
+\contentsline {paragraph}{•}{4}
+\contentsline {paragraph}{•}{4}
+\contentsline {paragraph}{•}{5}
+\contentsline {section}{\numberline {1.4}Objectives}{5}
+\contentsline {subsection}{\numberline {1.4.1}General Objectives}{5}
+\contentsline {paragraph}{•}{5}
+\contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{5}
+\contentsline {paragraph}{•}{5}
+\contentsline {paragraph}{•}{6}
+\contentsline {paragraph}{•}{6}
+\contentsline {section}{\numberline {1.5}Methodology}{6}
+\contentsline {paragraph}{•}{6}
+\contentsline {subsection}{\numberline {1.5.1}System Analysis}{6}
+\contentsline {paragraph}{•}{6}
+\contentsline {paragraph}{•}{6}
+\contentsline {subsection}{\numberline {1.5.2}System Design}{7}
+\contentsline {paragraph}{•}{7}
+\contentsline {paragraph}{•}{7}
+\contentsline {section}{\numberline {1.6}System Architecture}{7}
+\contentsline {paragraph}{•}{7}
+\contentsline {section}{\numberline {1.7}Results}{8}
+\contentsline {paragraph}{•}{8}
+\contentsline {section}{\numberline {1.8}Conclusion}{8}
+\contentsline {paragraph}{•}{8}
